@@ -3,6 +3,7 @@ html, body {
 	height: 100%;
 	background-color: grey;
 	font-family: Trebuchet MS;
+
 }
 
 .container{
@@ -145,6 +146,7 @@ html, body {
 	box-shadow: 10px 10px 5px #666666;
 	font-weight: bold;
 	background-color: #d9d9d9;
+	margin-bottom: 20px;
 	
 }
 
@@ -156,11 +158,36 @@ html, body {
 	text-align: center;
 }
 
+
+
 .feelBetter{
 	width: 600px;
 	clear: both;
-	background-color: #00cc44;
+	background-color: #85e085;
 	float: right;
+	margin-right: 55px;
+	padding: -10px;
+}
+
+.feelBetter p{
+	font-size: 14pt;
+}
+
+.button button{
+	clear: both;
+	float: right;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: white; 
+}
+
+.cards{
+	clear: both;
+	margin-left: 500px;
+	padding-top: 25px;
 }
 
 
