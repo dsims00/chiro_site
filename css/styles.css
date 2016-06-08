@@ -16,7 +16,7 @@ html, body {
 	transform: translate(-50%,-50%);*/
 	border: 1px solid black;
 	width: 1160px;
-	height: 1600px;
+	height: 0 auto;
 	margin: 0 auto;
 	margin-top: 10px;
 }
@@ -190,7 +190,20 @@ html, body {
 	padding-top: 25px;
 }
 
+footer{
+	color: white;
+	background-color: black;
+}
 
+footer li {
+	list-style: none;
+	float: left;
+	padding-right: 20px;
+}
+
+footer ul{
+	padding-left: 300px;
+}
 
 
 
